@@ -5,6 +5,7 @@ Webpack starter with basic config for initial files.
 HtmlWebpackPlugin and CopyWebpackPlugin added.
 
 Configured with the following loaders: 
+- babel
 - sass, css, and style
 - fonts 
 - images
